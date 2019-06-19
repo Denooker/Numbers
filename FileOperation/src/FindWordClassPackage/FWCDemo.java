@@ -7,5 +7,7 @@ public class FWCDemo {
 //        Test.putEng();
         Test1.putRus();
 
+        System.out.print("for git");
+
     }
 }
