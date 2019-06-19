@@ -1,0 +1,5 @@
+# Игнор папки
+IgnoreExample/
+
+# Игнор txt файлов в папке
+IgnoreFilesExample/*.txt
