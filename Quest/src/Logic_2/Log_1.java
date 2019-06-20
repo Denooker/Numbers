@@ -1,4 +1,4 @@
-package Logic_1;
+package Logic_2;
 //https://codingbat.com/java/Logic-2
 public class Log_1 {
     public static boolean makeBricks(int a, int b, int c){
