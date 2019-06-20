@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6f7b4ada-7074-4edc-a68d-de61bbb0b539" name="Default Changelist" comment="" />
+    <list default="true" id="6f7b4ada-7074-4edc-a68d-de61bbb0b539" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FileOperation/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FileOperation/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FileOperation/out/production/FileOperation/FindWordClassPackage/FWCDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../FileOperation/out/production/FileOperation/FindWordClassPackage/FWCDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FileOperation/out/production/FileOperation/FindWordClassPackage/FindWordClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/../FileOperation/out/production/FileOperation/FindWordClassPackage/FindWordClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FileOperation/src/FindWordClassPackage/FWCDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../FileOperation/src/FindWordClassPackage/FWCDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FileOperation/src/FindWordClassPackage/FindWordClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/../FileOperation/src/FindWordClassPackage/FindWordClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Quest/Logic_1/Log_1_Demo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Quest/Logic_1/Log_1_Demo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Logic_1/Log_1_Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Logic_1/Log_1_Demo.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,8 +27,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Logic_1/Log_1_Demo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="7" selection-start-line="7" selection-end-line="7" />
+            <state relative-caret-position="96">
+              <caret line="4" column="10" selection-start-line="4" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -26,8 +36,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Logic_1/Log_1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="648">
-              <caret line="27" selection-start-line="27" selection-end-line="27" />
+            <state relative-caret-position="696">
+              <caret line="29" selection-start-line="29" selection-end-line="29" />
               <folding>
                 <element signature="e#489#490#0" expanded="true" />
                 <element signature="e#562#563#0" expanded="true" />
@@ -45,6 +55,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -75,11 +88,12 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="330" />
-    <option name="y" value="251" />
+    <option name="x" value="252" />
+    <option name="y" value="133" />
     <option name="width" value="1754" />
     <option name="height" value="1100" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -97,22 +111,17 @@
               <item name="Quest" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Quest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Quest" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Logic_1" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ConcreteCheck" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -198,10 +207,10 @@
     </configuration>
     <list>
       <item itemvalue="Application.CompFiles" />
+      <item itemvalue="Application.Log_1_Demo" />
       <item itemvalue="Application.Recurs_1" />
       <item itemvalue="Application.Warmup_1_Demo" />
       <item itemvalue="Application.Warmup_2_Demo" />
-      <item itemvalue="Application.Log_1_Demo" />
     </list>
     <recent_temporary>
       <list>
@@ -227,10 +236,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="330" y="251" width="1754" height="1100" extended-state="0" />
+    <frame x="252" y="133" width="1754" height="1100" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23671784" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24262102" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -377,15 +386,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Logic_1/Log_1_Demo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        <state relative-caret-position="96">
+          <caret line="4" column="10" selection-start-line="4" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Logic_1/Log_1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="648">
-          <caret line="27" selection-start-line="27" selection-end-line="27" />
+        <state relative-caret-position="696">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
           <folding>
             <element signature="e#489#490#0" expanded="true" />
             <element signature="e#562#563#0" expanded="true" />

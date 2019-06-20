@@ -6,8 +6,5 @@ public class FWCDemo {
         FindWordClass Test1 = new FindWordClass("Абвг.txt");
 //        Test.putEng();
         Test1.putRus();
-
-        System.out.print("for git");
-
     }
 }
