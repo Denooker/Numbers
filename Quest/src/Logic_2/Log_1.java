@@ -25,7 +25,14 @@ public class Log_1 {
     }
 
     public static int loneSum(int a, int b, int c){
-
+        int sum = a+b+c;
+        if ((a==b)&(b==c)) {
+            sum = sum-2*b;
+        }
+        else if ((a==b)|(b==c)){
+            sum = sum - 3*b;
+        }
+        return sum;
     }
 
 
