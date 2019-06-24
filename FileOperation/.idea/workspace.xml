@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8cc116fc-72db-4cc8-a8f3-f27e5c5fdfd7" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../Quest/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Quest/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Quest/out/production/Quest/Logic_1/Log_1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Quest/out/production/Quest/Logic_1/Log_1_Demo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Quest/out/production/Quest/Logic_2/Log_1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Quest/out/production/Quest/Logic_2/Log_1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Quest/out/production/Quest/Logic_2/Log_2_Demo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Quest/out/production/Quest/Logic_2/Log_2_Demo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Quest/src/Logic_2/Log_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Quest/src/Logic_2/Log_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Quest/src/Logic_2/Log_2_Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Quest/src/Logic_2/Log_2_Demo.java" afterDir="false" />
-    </list>
+    <list default="true" id="8cc116fc-72db-4cc8-a8f3-f27e5c5fdfd7" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -34,7 +26,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/FindWordClassPackage/FindWordClass.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1224">
+            <state relative-caret-position="1800">
               <caret line="80" column="7" selection-start-line="80" selection-start-column="7" selection-end-line="80" selection-end-column="7" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -47,7 +39,7 @@
         <entry file="file://$PROJECT_DIR$/src/Regular/RegExMain.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="674">
-              <caret line="46" column="9" lean-forward="true" selection-start-line="46" selection-start-column="9" selection-end-line="46" selection-end-column="9" />
+              <caret line="46" column="9" selection-start-line="46" selection-start-column="9" selection-end-line="46" selection-end-column="9" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
                 <element signature="imports" expanded="true" />
@@ -81,8 +73,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="187" />
-    <option name="y" value="276" />
+    <option name="x" value="184" />
+    <option name="y" value="206" />
     <option name="width" value="2085" />
     <option name="height" value="1167" />
   </component>
@@ -92,6 +84,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -108,14 +101,13 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1560283420500" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Tests" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -200,10 +192,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="187" y="276" width="2085" height="1167" extended-state="0" />
+    <frame x="184" y="206" width="2085" height="1167" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18567902" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18765432" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -273,7 +265,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/FindWordClassPackage/FindWordClass.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1224">
+        <state relative-caret-position="1800">
           <caret line="80" column="7" selection-start-line="80" selection-start-column="7" selection-end-line="80" selection-end-column="7" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -284,7 +276,7 @@
     <entry file="file://$PROJECT_DIR$/src/Regular/RegExMain.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="674">
-          <caret line="46" column="9" lean-forward="true" selection-start-line="46" selection-start-column="9" selection-end-line="46" selection-end-column="9" />
+          <caret line="46" column="9" selection-start-line="46" selection-start-column="9" selection-end-line="46" selection-end-column="9" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
             <element signature="imports" expanded="true" />
