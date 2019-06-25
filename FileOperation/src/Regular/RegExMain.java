@@ -34,10 +34,10 @@ public class RegExMain {
         String str;
         Pattern pattern;
         Matcher matcher;
-        try (BufferedReader text = new BufferedReader(new FileReader("49120351.txt"))){
+        try (BufferedReader text = new BufferedReader(new FileReader("49120352.txt"))){
                 str = text.readLine();
                 do {
-                    pattern = Pattern.compile("созд[а-я]*ся");
+                    pattern = Pattern.compile("\\bоткр[а-я]*(с[ья]|л([а-я]|)|в|ющ.*|ь|ем.*)\\b");
                     matcher = pattern.matcher(str);
                     while (matcher.find()) {
                         System.out.println(str.substring(matcher.start(),matcher.end()));

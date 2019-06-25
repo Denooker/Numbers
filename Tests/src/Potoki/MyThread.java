@@ -1,8 +1,15 @@
 package Potoki;
 
 public class MyThread implements Runnable {
-    @Override
+    String name;
+    Thread myThrd;
+
     public void run() {
 
     }
+
+
+
+
+
 }
