@@ -1,3 +1,5 @@
+package Train;
+
 import java.util.Scanner;
 
 public class Klass {

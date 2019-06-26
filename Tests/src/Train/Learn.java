@@ -1,3 +1,5 @@
+package Train;
+
 import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;
@@ -5,15 +7,15 @@ import java.io.IOException;
 public class Learn {
     public static void main(String[] args) {
 
-//        String p[] = new String[Klass.kolvo()];
+//        String p[] = new String[Train.Klass.kolvo()];
 //
 //        //Заполнение массива
 //        System.out.println("Вводите строки");
 //        for (int i = 0; i < p.length; i++){
-//            p[i] = Klass.Consol();
+//            p[i] = Train.Klass.Consol();
 //        }
 //
-//        Klass stk1 = new Klass(p);
+//        Train.Klass stk1 = new Train.Klass(p);
 
 //        //Вывод элементов массива
 //        for (int a = 0; a < stk1.str.length; a++)
@@ -27,7 +29,7 @@ public class Learn {
 //        stk1.FindSortWords();
 //        stk1.FindWordWithDifferentChar();
 //        stk1.Palindrom();
-//        Klass.Matrix();
+//        Train.Klass.Matrix();
 
 //        try {
 //        String str = " -Example. It, measures-your: \"typing\" - speed? for! (each) individual key, and uses this data to generate random";
@@ -65,7 +67,7 @@ public class Learn {
 
         for (int i=0; i<Arr.length; i++){
             for (int j = 1; j<Arr.length;j++){
-                if (i<j)
+//                if (i<j)
             }
         }
 
