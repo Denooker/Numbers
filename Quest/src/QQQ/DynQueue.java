@@ -2,7 +2,7 @@ package QQQ;
 
 public class DynQueue implements ICharQ {
 
-    public char q[];
+    private char q[];
     private int putloc, getloc;
 
     public DynQueue(int size){
@@ -10,13 +10,7 @@ public class DynQueue implements ICharQ {
         putloc = getloc = 0;
     }
 
-    public void reset(){
-        putloc = getloc = 0;
-        char r[] = new char[q.length];
-        q = r;
-    }
-
-    public void put (char ch){
+    public synchronized void put (char ch){
         if (putloc == q.length){
             char t[] = new char[q.length*2];
             for (int i = 0; i < q.length; i++)
@@ -26,7 +20,7 @@ public class DynQueue implements ICharQ {
         q[putloc++] = ch;
     }
 
-    public char get(){
+    public synchronized char get(){
         if(getloc == putloc){
             System.out.println(" - Очередь пуста");
             return (char) 0;
@@ -34,9 +28,15 @@ public class DynQueue implements ICharQ {
         return q[getloc++];
     }
 
-    public void copy(char v[]){
-        for (int i=0; i<q.length;i++){
-            q[i]=v[i];
-        }
-    }
+    //    public void reset(){
+//        putloc = getloc = 0;
+//        char r[] = new char[q.length];
+//        q = r;
+//    }
+
+//    public void copy(char v[]){
+//        for (int i=0; i<q.length;i++){
+//            q[i]=v[i];
+//        }
+//    }
 }

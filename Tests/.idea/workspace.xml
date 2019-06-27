@@ -2,18 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a0c9c821-eb9b-495c-a446-0296431ae4f3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Potoki/ThreadCom.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Potoki/TickTock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Potoki2/ExtendThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Potoki2/MyThread.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FileOperation/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FileOperation/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Quest/src/QQQ/ThreadQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quest/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Quest/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quest/out/production/Quest/QQQ/CircularQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Quest/out/production/Quest/QQQ/CircularQueue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quest/out/production/Quest/QQQ/DynQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Quest/out/production/Quest/QQQ/DynQueue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quest/out/production/Quest/QQQ/FixedQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Quest/out/production/Quest/QQQ/FixedQueue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quest/out/production/Quest/QQQ/ICharQ.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Quest/out/production/Quest/QQQ/ICharQ.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quest/out/production/Quest/QQQ/IQDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Quest/out/production/Quest/QQQ/IQDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quest/src/QQQ/CircularQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Quest/src/QQQ/CircularQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quest/src/QQQ/DynQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Quest/src/QQQ/DynQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quest/src/QQQ/FixedQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Quest/src/QQQ/FixedQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quest/src/QQQ/ICharQ.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Quest/src/QQQ/ICharQ.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quest/src/QQQ/IQDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Quest/src/QQQ/IQDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Tests/Klass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Tests/Learn.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Klass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Train/Klass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Learn.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Train/Learn.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Potoki/MyThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Potoki/MyThread.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Potoki/MyThreadDemo.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -30,8 +31,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Potoki/TickTock.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1128">
-              <caret line="47" column="1" selection-start-line="47" selection-start-column="1" selection-end-line="47" selection-end-column="1" />
+            <state relative-caret-position="624">
+              <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
             </state>
           </provider>
         </entry>
@@ -39,8 +40,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Potoki/MyThread.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="432">
-              <caret line="21" column="45" selection-start-line="21" selection-start-column="45" selection-end-line="21" selection-end-column="45" />
+            <state relative-caret-position="672">
+              <caret line="28" column="15" selection-start-line="28" selection-start-column="15" selection-end-line="28" selection-end-column="15" />
             </state>
           </provider>
         </entry>
@@ -48,8 +49,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Potoki/ThreadCom.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="384">
-              <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+            <state relative-caret-position="360">
+              <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -76,17 +77,17 @@
         <option value="$PROJECT_DIR$/src/Learn.java" />
         <option value="$PROJECT_DIR$/src/Potoki2/ExtendThread.java" />
         <option value="$PROJECT_DIR$/src/Potoki2/MyThread.java" />
-        <option value="$PROJECT_DIR$/src/Potoki/TickTock.java" />
         <option value="$PROJECT_DIR$/src/Potoki/ThreadCom.java" />
         <option value="$PROJECT_DIR$/src/Potoki/MyThread.java" />
+        <option value="$PROJECT_DIR$/src/Potoki/TickTock.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="403" />
-    <option name="y" value="66" />
-    <option name="width" value="1606" />
-    <option name="height" value="1325" />
+    <option name="x" value="-53" />
+    <option name="y" value="195" />
+    <option name="width" value="2044" />
+    <option name="height" value="1244" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -96,8 +97,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -110,21 +109,17 @@
               <item name="Tests" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Tests" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Tests" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Potoki" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Quest" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RunDashboard">
@@ -195,10 +190,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="403" y="66" width="1606" height="1325" extended-state="0" />
+    <frame x="-53" y="195" width="2044" height="1244" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13518758" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.10635081" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -207,7 +202,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32998997" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3104027" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.19981998" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -261,22 +256,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Potoki/TickTock.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1128">
-          <caret line="47" column="1" selection-start-line="47" selection-start-column="1" selection-end-line="47" selection-end-column="1" />
+        <state relative-caret-position="624">
+          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Potoki/MyThread.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="21" column="45" selection-start-line="21" selection-start-column="45" selection-end-line="21" selection-end-column="45" />
+        <state relative-caret-position="672">
+          <caret line="28" column="15" selection-start-line="28" selection-start-column="15" selection-end-line="28" selection-end-column="15" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Potoki/ThreadCom.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="384">
-          <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+        <state relative-caret-position="360">
+          <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
         </state>
       </provider>
     </entry>
