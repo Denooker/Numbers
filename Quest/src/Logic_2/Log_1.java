@@ -24,16 +24,19 @@ public class Log_1 {
         else return 0;
     }
 
-    public static int loneSum(int a, int b, int c){
-        int sum = a+b+c;
-        if ((a==b)&(b==c)) {
-            sum = sum-2*b;
+    public static int loneSum(int ...a) {
+        int sum = 0;
+        for (int i = 0; i < a.length; i++) {
+            for (int j = 1; j < a.length; j++) {
+                if (a[j] == a[i]) {
+                    a[j] = 0;
+                    a[i]
+                }
+            }
         }
-        else if ((a==b)|(b==c)){
-            sum = sum - 3*b;
+        for (int x : a) {
+            sum += x;
         }
         return sum;
     }
-
-
 }
