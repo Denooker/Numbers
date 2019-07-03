@@ -24,19 +24,59 @@ public class Log_1 {
         else return 0;
     }
 
-    public static int loneSum(int ...a) {
-        int sum = 0;
-        for (int i = 0; i < a.length; i++) {
-            for (int j = 1; j < a.length; j++) {
-                if (a[j] == a[i]) {
-                    a[j] = 0;
-                    a[i]
+    public static int loneSum(int a, int b, int c) {
+        int a1 = a;
+        int b1 = b;
+        int c1 = c;
+
+        if (a == b){
+            a1 = 0;
+            b1 = 0;
+        }
+        if (a == c){
+            a1 = 0;
+            c1 = 0;
+        }
+        if (b == c){
+            b1 = 0;
+            c1 = 0;
+        }
+        return a1+b1+c1;
+    }
+
+    public static int round10(int n){
+        int ost = n%10;
+        if (ost>=5) return n+(10-ost);
+        else return n-ost;
+    }
+
+    public static int roundSum(int a, int b, int c){
+        return round10(a)+round10(b)+round10(c);
+    }
+
+    public static boolean evenlySpaced (int a, int b, int c){
+        int[] sort = new int[3];
+        sort[0] = a;
+        sort[1] = b;
+        sort[2] = c;
+        for(int i=0;i<sort.length;i++){
+            for(int j = 0; j<sort.length;j++){
+                if (sort[j]>sort[i]){
+                    int vr = sort[i];
+                    sort[i] = sort[j];
+                    sort[j] = vr;
                 }
             }
         }
-        for (int x : a) {
-            sum += x;
-        }
-        return sum;
+        return ((sort[2]-sort[1])==(sort[1]-sort[0]));
     }
+
+    public static int luckySum (int a, int b, int c){
+        if (a==13) return 0;
+        else if (b==13) return a;
+        else if (c==13) return a+b;
+        else return a+b+c;
+    }
+
+
 }
