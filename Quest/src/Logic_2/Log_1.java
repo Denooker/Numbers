@@ -78,5 +78,23 @@ public class Log_1 {
         else return a+b+c;
     }
 
+    public static boolean closeFar(int a, int b, int c){
+        if ((Math.abs(a-b)<2)&(Math.abs(a-c)>1)) return true;
+        else if ((Math.abs(a-c)<2)&(Math.abs(a-b)>1)) return true;
+        else return false;
+    }
+
+    public static int makeChocolate(int a, int b, int c){
+        if (b!=0) {
+            if ((c - (5 * b) > 0) & (c - (5 * b)) <= a) return c - (5 * b);
+            else if (c - (5 * b) == 0) return 0;
+            else return -1;
+        }
+        else {
+            if (c<=a) return c;
+            else return -1;
+        }
+    }
+
 
 }

@@ -2,11 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8cc116fc-72db-4cc8-a8f3-f27e5c5fdfd7" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/49120352.txt" beforeDir="false" afterPath="$PROJECT_DIR$/49120352.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FileOperation/Regular/RegExMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FileOperation/Regular/RegExMain.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Regular/RegExMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Regular/RegExMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Quest/src/String_3/Str_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Quest/src/String_3/Str_3_Demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ConcreteCheck/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ConcreteCheck/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Quest/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Quest/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quest/out/production/Quest/Logic_2/Log_1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Quest/out/production/Quest/Logic_2/Log_1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quest/out/production/Quest/Logic_2/Log_2_Demo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Quest/out/production/Quest/Logic_2/Log_2_Demo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quest/out/production/Quest/QQQ/CircularQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Quest/out/production/Quest/QQQ/CircularQueue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quest/out/production/Quest/QQQ/FixedQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Quest/out/production/Quest/QQQ/FixedQueue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quest/out/production/Quest/QQQ/IQDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Quest/out/production/Quest/QQQ/IQDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quest/out/production/Quest/QQQ/ThreadQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Quest/out/production/Quest/QQQ/ThreadQueue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quest/src/Logic_2/Log_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Quest/src/Logic_2/Log_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quest/src/Logic_2/Log_2_Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Quest/src/Logic_2/Log_2_Demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quest/src/QQQ/CircularQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Quest/src/QQQ/CircularQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quest/src/QQQ/FixedQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Quest/src/QQQ/FixedQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quest/src/QQQ/ICharQ.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Quest/src/QQQ/ICharQ.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quest/src/QQQ/IQDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Quest/src/QQQ/IQDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quest/src/QQQ/ThreadQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Quest/src/QQQ/ThreadQueue.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,8 +35,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Regular/RegExMain.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1046">
-              <caret line="44" column="42" lean-forward="true" selection-start-line="44" selection-start-column="42" selection-end-line="44" selection-end-column="42" />
+            <state relative-caret-position="683">
+              <caret line="42" column="89" selection-start-line="42" selection-start-column="24" selection-end-line="42" selection-end-column="89" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
                 <element signature="imports" expanded="true" />
@@ -57,9 +69,15 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="242" />
-    <option name="y" value="101" />
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="64" />
+    <option name="y" value="23" />
     <option name="width" value="2085" />
     <option name="height" value="1167" />
   </component>
@@ -69,6 +87,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -86,13 +105,12 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1560283420500" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Quest" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -177,10 +195,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="2576" height="1416" extended-state="6" />
+    <frame x="64" y="23" width="2085" height="1167" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15699524" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19654322" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -198,16 +216,21 @@
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32688588" />
+      <window_info anchor="right" x="0" y="0" width="594" height="1216" id="Documentation" sideWeight="0.50116915" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" sideWeight="0.49883085" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Maven" order="4" sideWeight="0.49961028" weight="0.3298887" />
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Maven Projects" order="8" />
     </layout>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/../Tests/src/Klass.java" />
@@ -252,8 +275,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Regular/RegExMain.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1046">
-          <caret line="44" column="42" lean-forward="true" selection-start-line="44" selection-start-column="42" selection-end-line="44" selection-end-column="42" />
+        <state relative-caret-position="683">
+          <caret line="42" column="89" selection-start-line="42" selection-start-column="24" selection-end-line="42" selection-end-column="89" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
             <element signature="imports" expanded="true" />

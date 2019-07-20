@@ -18,18 +18,11 @@ public class ThreadQueue implements Runnable {
     }
 
     public void run(){
-
-            for (int i=0; i < 10; i++)
-                fq.put((char)('A'+i));
-
-            for (int i=0; i < 10; i++)
-                cq.put((char)('Z'-i));
-
 //            System.out.println("Содержимое фиксированной очереди:");
             for (int i=0; i < 10; i++){
                 System.out.print(fq.get());
             }
-        System.out.println("Содержимое кольцевой очереди:");
+//        System.out.println("Содержимое кольцевой очереди:");
             for (int i=0; i < 10; i++){
                 System.out.print(cq.get());
             }

@@ -2,10 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6f7b4ada-7074-4edc-a68d-de61bbb0b539" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/String_3/Str_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String_3/Str_3_Demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ConcreteCheck/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ConcreteCheck/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FileOperation/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FileOperation/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Quest/Logic_2/Log_1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Quest/Logic_2/Log_1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Quest/Logic_2/Log_2_Demo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Quest/Logic_2/Log_2_Demo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Quest/QQQ/CircularQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Quest/QQQ/CircularQueue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Quest/QQQ/FixedQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Quest/QQQ/FixedQueue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Quest/QQQ/IQDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Quest/QQQ/IQDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Quest/QQQ/ThreadQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Quest/QQQ/ThreadQueue.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Logic_2/Log_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Logic_2/Log_1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Logic_2/Log_2_Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Logic_2/Log_2_Demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/QQQ/CircularQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/QQQ/CircularQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/QQQ/FixedQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/QQQ/FixedQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/QQQ/ICharQ.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/QQQ/ICharQ.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/QQQ/IQDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/QQQ/IQDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/QQQ/ThreadQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/QQQ/ThreadQueue.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,24 +34,21 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Logic_2/Log_2_Demo.java">
+        <entry file="file://$PROJECT_DIR$/src/String_3/Str_3_Demo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+            <state relative-caret-position="120">
+              <caret line="5" column="35" lean-forward="true" selection-start-line="5" selection-start-column="35" selection-end-line="5" selection-end-column="35" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Logic_2/Log_1.java">
+        <entry file="file://$PROJECT_DIR$/src/String_3/Str_3.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="663">
-              <caret line="74" column="27" selection-start-line="74" selection-start-column="27" selection-end-line="74" selection-end-column="27" />
+            <state relative-caret-position="528">
+              <caret line="22" column="34" selection-start-line="22" selection-start-column="34" selection-end-line="22" selection-end-column="34" />
               <folding>
-                <element signature="e#489#490#0" expanded="true" />
-                <element signature="e#562#563#0" expanded="true" />
-                <element signature="e#1323#1324#0" expanded="true" />
-                <element signature="e#1347#1348#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -78,22 +89,25 @@
         <option value="$PROJECT_DIR$/src/Logic_1/Log_1.java" />
         <option value="$PROJECT_DIR$/src/QQQsync/IcharQ.java" />
         <option value="$PROJECT_DIR$/src/QQQsync/FixedQueue.java" />
+        <option value="$PROJECT_DIR$/src/QQQ/DynQueue.java" />
         <option value="$PROJECT_DIR$/src/QQQ/ICharQ.java" />
+        <option value="$PROJECT_DIR$/src/QQQ/Queue.java" />
+        <option value="$PROJECT_DIR$/src/QQQ/ThreadQueue.java" />
         <option value="$PROJECT_DIR$/src/QQQ/FixedQueue.java" />
         <option value="$PROJECT_DIR$/src/QQQ/CircularQueue.java" />
-        <option value="$PROJECT_DIR$/src/QQQ/DynQueue.java" />
-        <option value="$PROJECT_DIR$/src/QQQ/ThreadQueue.java" />
         <option value="$PROJECT_DIR$/src/QQQ/IQDemo.java" />
         <option value="$PROJECT_DIR$/src/Logic_2/Log_1.java" />
         <option value="$PROJECT_DIR$/src/Logic_2/Log_2_Demo.java" />
+        <option value="$PROJECT_DIR$/src/String_3/Str_3_Demo.java" />
+        <option value="$PROJECT_DIR$/src/String_3/Str_3.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="311" />
-    <option name="y" value="166" />
-    <option name="width" value="2071" />
-    <option name="height" value="1180" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="64" />
+    <option name="y" value="23" />
+    <option name="width" value="2085" />
+    <option name="height" value="1167" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -115,18 +129,6 @@
               <item name="Quest" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Quest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Quest" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Logic_2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Quest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Quest" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="WorkFiles" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -138,7 +140,7 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1561056303582" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../FileOperation" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -162,7 +164,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Log_2_Demo">
+  <component name="RunManager" selected="Application.Str_3_Demo">
     <configuration name="CompFiles" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Failes_.CompFiles" />
       <module name="Quest" />
@@ -202,12 +204,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Warmup_1_Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Warmup_1.Warmup_1_Demo" />
+    <configuration name="Str_3_Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="String_3.Str_3_Demo" />
       <module name="Quest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Warmup_1.*" />
+          <option name="PATTERN" value="String_3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -232,16 +234,16 @@
       <item itemvalue="Application.CompFiles" />
       <item itemvalue="Application.IQDemo" />
       <item itemvalue="Application.Log_2_Demo" />
-      <item itemvalue="Application.Warmup_1_Demo" />
       <item itemvalue="Application.Warmup_2_Demo" />
+      <item itemvalue="Application.Str_3_Demo" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Str_3_Demo" />
         <item itemvalue="Application.Log_2_Demo" />
         <item itemvalue="Application.IQDemo" />
         <item itemvalue="Application.CompFiles" />
         <item itemvalue="Application.Warmup_2_Demo" />
-        <item itemvalue="Application.Warmup_1_Demo" />
       </list>
     </recent_temporary>
   </component>
@@ -259,10 +261,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="311" y="166" width="2071" height="1180" extended-state="0" />
+    <frame x="-8" y="-8" width="2576" height="1416" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.10144207" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.082670905" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -271,7 +273,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3449024" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49881935" weight="0.23591213" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49881935" weight="0.19251753" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3991727" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -347,6 +349,35 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/QQQ/ICharQ.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/QQQ/Queue.java" />
+    <entry file="file://$PROJECT_DIR$/src/QQQ/CircularQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="19" column="42" selection-start-line="19" selection-start-column="42" selection-end-line="19" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/QQQ/ThreadQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="25" column="39" lean-forward="true" selection-start-line="25" selection-start-column="39" selection-end-line="25" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/QQQ/IQDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="7" column="18" lean-forward="true" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/WorkFiles/KtoD.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="96">
@@ -356,55 +387,51 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/QQQ/FixedQueue.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="21" column="9" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/QQQ/CircularQueue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="792">
-          <caret line="33" column="28" selection-start-line="33" selection-start-column="28" selection-end-line="33" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/QQQ/ThreadQueue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="159">
-          <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/QQQ/IQDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="8" column="70" selection-start-line="8" selection-start-column="70" selection-end-line="8" selection-end-column="70" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/QQQ/ICharQ.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="3" column="8" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Logic_2/Log_2_Demo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        <state relative-caret-position="240">
+          <caret line="16" column="25" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Logic_2/Log_1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="663">
-          <caret line="74" column="27" selection-start-line="74" selection-start-column="27" selection-end-line="74" selection-end-column="27" />
+        <state relative-caret-position="608">
+          <caret line="96" column="5" lean-forward="true" selection-start-line="96" selection-start-column="5" selection-end-line="96" selection-end-column="5" />
           <folding>
             <element signature="e#489#490#0" expanded="true" />
             <element signature="e#562#563#0" expanded="true" />
-            <element signature="e#1323#1324#0" expanded="true" />
-            <element signature="e#1347#1348#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Logic_2/Log_2_Demo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ConcreteCheck/src/CheckDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-72">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/String_3/Str_3_Demo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" column="35" lean-forward="true" selection-start-line="5" selection-start-column="35" selection-end-line="5" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/String_3/Str_3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="22" column="34" selection-start-line="22" selection-start-column="34" selection-end-line="22" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
