@@ -1,5 +1,6 @@
 package String_3;
 
+import java.util.ArrayList;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
@@ -18,15 +19,14 @@ public class Str_3 {
     }
 
     public static void withoutString (String a, String b){
-        int first = a.indexOf(b);
-        System.out.println(first);
-        int last = a.lastIndexOf(b);
-        System.out.println(last);
-        String before = a.substring(0,first);
-        System.out.println(before);
-        String after = a.substring(last);
-        System.out.println(after);
-        String answer = before.concat(after);
-        System.out.println(answer);
+        ArrayList<String> slova = new ArrayList<>();
+        int k = 0;
+        for (int i=0; i<a.length();i++){
+            if (a.charAt(i)==' ') {
+                slova.add(a.substring(k,i));
+                k = i+1;
+            }
+        }
+        for (String x: slova) System.out.println(x);
     }
 }
