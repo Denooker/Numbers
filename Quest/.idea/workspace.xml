@@ -2,9 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6f7b4ada-7074-4edc-a68d-de61bbb0b539" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../FileOperation/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FileOperation/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/String_3/Str_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/String_3/Str_3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/String_3/Str_3_Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/String_3/Str_3_Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EnumPractise/Boys.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EnumPractise/Enum_Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ThreadPractice/MyThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ThreadPractice/Thread_Demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Quest/String_3/Str_3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Quest/String_3/Str_3.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,22 +21,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/String_3/Str_3_Demo.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/EnumPractise/Enum_Demo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+            <state relative-caret-position="456">
+              <caret line="19" column="1" lean-forward="true" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/String_3/Str_3.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/EnumPractise/Boys.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="696">
-              <caret line="29" column="50" selection-start-line="29" selection-start-column="50" selection-end-line="29" selection-end-column="50" />
+            <state relative-caret-position="96">
+              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#123#124#0" expanded="true" />
+                <element signature="e#155#156#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -46,6 +50,7 @@
       <list>
         <option value="Interface" />
         <option value="Class" />
+        <option value="Enum" />
       </list>
     </option>
   </component>
@@ -85,12 +90,16 @@
         <option value="$PROJECT_DIR$/src/Logic_2/Log_2_Demo.java" />
         <option value="$PROJECT_DIR$/src/String_3/Str_3_Demo.java" />
         <option value="$PROJECT_DIR$/src/String_3/Str_3.java" />
+        <option value="$PROJECT_DIR$/src/ThreadPractice/MyThread.java" />
+        <option value="$PROJECT_DIR$/src/ThreadPractice/Thread_Demo.java" />
+        <option value="$PROJECT_DIR$/src/EnumPractise/Boys.java" />
+        <option value="$PROJECT_DIR$/src/EnumPractise/Enum_Demo.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="70" />
-    <option name="y" value="239" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="216" />
+    <option name="y" value="152" />
     <option name="width" value="2085" />
     <option name="height" value="1167" />
   </component>
@@ -102,6 +111,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -114,12 +125,16 @@
               <item name="Quest" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Quest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Quest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="EnumPractise" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -149,13 +164,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Str_3_Demo">
-    <configuration name="CompFiles" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Failes_.CompFiles" />
+  <component name="RunManager" selected="Application.Enum_Demo">
+    <configuration name="Enum_Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EnumPractise.Enum_Demo" />
       <module name="Quest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Failes_.*" />
+          <option name="PATTERN" value="EnumPractise.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -202,12 +217,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Warmup_2_Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Warmup_2.Warmup_2_Demo" />
+    <configuration name="Thread_Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ThreadPractice.Thread_Demo" />
       <module name="Quest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Warmup_2.*" />
+          <option name="PATTERN" value="ThreadPractice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -216,19 +231,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.CompFiles" />
       <item itemvalue="Application.IQDemo" />
       <item itemvalue="Application.Log_2_Demo" />
-      <item itemvalue="Application.Warmup_2_Demo" />
       <item itemvalue="Application.Str_3_Demo" />
+      <item itemvalue="Application.Thread_Demo" />
+      <item itemvalue="Application.Enum_Demo" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Enum_Demo" />
+        <item itemvalue="Application.Thread_Demo" />
         <item itemvalue="Application.Str_3_Demo" />
         <item itemvalue="Application.Log_2_Demo" />
         <item itemvalue="Application.IQDemo" />
-        <item itemvalue="Application.CompFiles" />
-        <item itemvalue="Application.Warmup_2_Demo" />
       </list>
     </recent_temporary>
   </component>
@@ -246,10 +261,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="2576" height="1416" extended-state="6" />
+    <frame x="216" y="152" width="2085" height="1167" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.08306836" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1037037" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -258,7 +273,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3449024" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49881935" weight="0.19251753" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49881935" weight="0.30947775" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3991727" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -266,7 +281,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32969603" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50118065" side_tool="true" weight="0.21096174" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.3285578" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.327853" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -349,24 +364,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/QQQ/ThreadQueue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="25" column="39" lean-forward="true" selection-start-line="25" selection-start-column="39" selection-end-line="25" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/QQQ/IQDemo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="168">
           <caret line="7" column="18" lean-forward="true" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/WorkFiles/KtoD.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -407,7 +408,7 @@
     <entry file="file://$PROJECT_DIR$/src/String_3/Str_3_Demo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
         </state>
       </provider>
     </entry>
@@ -418,6 +419,56 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/WorkFiles/KtoD.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/QQQ/ThreadQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="25" column="39" lean-forward="true" selection-start-line="25" selection-start-column="39" selection-end-line="25" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ThreadPractice/MyThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="19" column="16" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
+          <folding>
+            <element signature="e#117#118#0" expanded="true" />
+            <element signature="e#151#152#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ThreadPractice/Thread_Demo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/EnumPractise/Boys.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+          <folding>
+            <element signature="e#123#124#0" expanded="true" />
+            <element signature="e#155#156#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/EnumPractise/Enum_Demo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="19" column="1" lean-forward="true" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
         </state>
       </provider>
     </entry>
