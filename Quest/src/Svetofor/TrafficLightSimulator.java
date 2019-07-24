@@ -1,6 +1,6 @@
 package Svetofor;
 
-public class TrafficLightSimulator {
+public class TrafficLightSimulator implements Runnable {
     private TrafficLightColor tlc;
     boolean stop = false;
     boolean changed = false;

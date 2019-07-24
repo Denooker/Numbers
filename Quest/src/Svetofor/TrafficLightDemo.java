@@ -6,11 +6,10 @@ public class TrafficLightDemo {
         Thread thrd = new Thread(tl);
         thrd.start();
 
-        for (int i=0; i<9; i++){
+        for (int i=0; i<3; i++){
             System.out.println(tl.getColor());
             tl.waitForChanged();
         }
-
         tl.cancel();
     }
 }
