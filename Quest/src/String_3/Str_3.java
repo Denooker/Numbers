@@ -48,5 +48,23 @@ public class Str_3 {
 //        for (String X : slova) System.out.println(X);
         }
 
+        public static void equalsIsNot (String a){
+        int counterIs = 0;
+        int counterNot = 0;
+        boolean answ = false;
+        for (int i = 0; i < a.length()-1; i++){
+            if (a.charAt(i)=='i'&a.charAt(i+1)=='s') counterIs++;
+            if (i<a.length()-2) {
+                if (a.charAt(i) == 'n' & a.charAt(i + 1) == 'o' & a.charAt(i + 2) == 't') counterNot++;
+            }
+        }
+        if (counterIs == counterNot) answ = true;
+            System.out.println(answ);
+        }
+
+        public static void gHappy (String a){
+
+        }
+
     }
 
