@@ -63,6 +63,18 @@ public class Str_3 {
         }
 
         public static void gHappy (String a){
+        int counter = 0;
+        boolean answ = false;
+        if (a.charAt(0)=='g'&a.charAt(1)!='g') counter++;
+        if (a.charAt(a.length()-2)!='g'&a.charAt(a.length()-1)=='g') counter++;
+        for (int i=1; i<a.length()-1; i++){
+            if (a.charAt(i)=='g'&a.charAt(i+1)!='g'&a.charAt(i-1)!='g') counter++;
+        }
+        if (counter == 0) answ = true;
+            System.out.println(answ);
+        }
+
+        public static void countTriple (String str){
 
         }
 
