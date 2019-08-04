@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6f7b4ada-7074-4edc-a68d-de61bbb0b539" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Tests/src/Cods/CodsDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tests/src/Cods/Gen.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/String_3/Str_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/String_3/Str_3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/String_3/Str_3_Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/String_3/Str_3_Demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tests/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Tests/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -22,7 +24,7 @@
         <entry file="file://$PROJECT_DIR$/src/String_3/Str_3_Demo.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="168">
-              <caret line="7" column="38" lean-forward="true" selection-start-line="7" selection-start-column="38" selection-end-line="7" selection-end-column="38" />
+              <caret line="7" column="38" selection-start-line="7" selection-start-column="38" selection-end-line="7" selection-end-column="38" />
             </state>
           </provider>
         </entry>
@@ -30,8 +32,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/String_3/Str_3.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="599">
-              <caret line="77" selection-start-line="77" selection-end-line="77" />
+            <state relative-caret-position="854">
+              <caret line="79" column="8" selection-start-line="79" selection-start-column="8" selection-end-line="79" selection-end-column="8" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -99,9 +101,9 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="332" />
-    <option name="y" value="196" />
+    <option name="y" value="61" />
     <option name="width" value="1932" />
-    <option name="height" value="1047" />
+    <option name="height" value="1182" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -111,8 +113,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -125,22 +125,18 @@
               <item name="Quest" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Quest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Quest" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Svetofor" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1564421075233" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Tests" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -261,10 +257,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="332" y="196" width="1932" height="1047" extended-state="0" />
+    <frame x="332" y="61" width="1932" height="1182" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14957266" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15117522" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -471,14 +467,14 @@
     <entry file="file://$PROJECT_DIR$/src/String_3/Str_3_Demo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="168">
-          <caret line="7" column="38" lean-forward="true" selection-start-line="7" selection-start-column="38" selection-end-line="7" selection-end-column="38" />
+          <caret line="7" column="38" selection-start-line="7" selection-start-column="38" selection-end-line="7" selection-end-column="38" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/String_3/Str_3.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="599">
-          <caret line="77" selection-start-line="77" selection-end-line="77" />
+        <state relative-caret-position="854">
+          <caret line="79" column="8" selection-start-line="79" selection-start-column="8" selection-end-line="79" selection-end-column="8" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

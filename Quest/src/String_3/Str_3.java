@@ -76,6 +76,9 @@ public class Str_3 {
 
         public static void countTriple (String str){
 
+        char q[] = new char[str.length()];
+
+
         }
 
     }
