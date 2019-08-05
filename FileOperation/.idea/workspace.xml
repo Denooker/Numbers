@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8cc116fc-72db-4cc8-a8f3-f27e5c5fdfd7" name="Default Changelist" comment="" />
+    <list default="true" id="8cc116fc-72db-4cc8-a8f3-f27e5c5fdfd7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Quest/src/GenericQueue/DynGenQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quest/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Quest/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quest/out/production/Quest/GenericQueue/GenQDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Quest/out/production/Quest/GenericQueue/GenQDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quest/src/GenericQueue/CircularGenQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Quest/src/GenericQueue/CircularGenQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quest/src/GenericQueue/GenQDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Quest/src/GenericQueue/GenQDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tests/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Tests/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,17 +19,29 @@
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
   </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="2109837445">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="4" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Regular/RegExMain.java">
+        <entry file="file://$PROJECT_DIR$/src/Testing/CompFiles.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="578">
-              <caret line="42" column="89" selection-start-line="42" selection-start-column="24" selection-end-line="42" selection-end-column="89" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="105">
+              <caret line="5" column="32" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -58,10 +77,9 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="233" />
-    <option name="y" value="125" />
-    <option name="width" value="2085" />
-    <option name="height" value="1167" />
+    <option name="x" value="-145" />
+    <option name="width" value="1940" />
+    <option name="height" value="1095" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -69,6 +87,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -81,18 +101,34 @@
               <item name="FileOperation" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="FileOperation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FileOperation" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="FindWordClassPackage" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FileOperation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FileOperation" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Regular" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FileOperation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FileOperation" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Testing" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1560283420500" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Quest" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -177,10 +213,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="233" y="125" width="2085" height="1167" extended-state="0" />
+    <frame x="-145" y="0" width="1940" height="1095" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19851851" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20053191" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -210,38 +246,28 @@
       <window_info anchor="right" x="0" y="0" width="594" height="1216" id="Documentation" order="9" sideWeight="0.50116915" side_tool="true" weight="0.25" />
     </layout>
   </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/../Tests/src/Klass.java" />
+    <entry file="file://$PROJECT_DIR$/../Tests/src/Learn.java" />
+    <entry file="jar://C:/Program Files/Java/jdk-12/lib/src.zip!/java.base/java/util/ArrayList.java" />
     <entry file="file://$PROJECT_DIR$/src/DZ1/DZclass.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="149" column="40" selection-start-line="149" selection-start-column="40" selection-end-line="149" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Testing/CompFiles.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-452">
-          <caret line="5" column="32" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Tests/src/Learn.java" />
-    <entry file="jar://C:/Program Files/Java/jdk-12/lib/src.zip!/java.base/java/util/ArrayList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="786" selection-start-line="786" selection-end-line="786" />
+        <state relative-caret-position="378">
+          <caret line="20" column="34" lean-forward="true" selection-start-line="20" selection-start-column="34" selection-end-line="20" selection-end-column="34" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/FindWordClassPackage/FindWordClass.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2570">
-          <caret line="170" lean-forward="true" selection-start-line="170" selection-end-line="170" />
+        <state relative-caret-position="-531">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -250,19 +276,26 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/FindWordClassPackage/FWCDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
+        <state relative-caret-position="147">
           <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Regular/RegExMain.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="578">
-          <caret line="42" column="89" selection-start-line="42" selection-start-column="24" selection-end-line="42" selection-end-column="89" />
+        <state relative-caret-position="309">
+          <caret line="30" column="13" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Testing/CompFiles.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="32" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
         </state>
       </provider>
     </entry>
