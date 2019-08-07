@@ -1,5 +1,8 @@
 package String_3;
 
+import java.io.BufferedReader;
+import java.io.FileReader;
+import java.io.IOException;
 import java.util.ArrayList;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
@@ -75,10 +78,17 @@ public class Str_3 {
         }
 
         public static void countTriple (String str){
-
-        char q[] = new char[str.length()];
-
-
+        String word;
+        int counter = 0;
+        try (BufferedReader text = new BufferedReader(new FileReader(str))){
+            word = text.readLine();
+                for (int i = 2; i < word.length(); i++){
+                    if(word.charAt(i) == word.charAt(i-2)& word.charAt(i) == word.charAt(i-1)) counter++;
+                }
+            System.out.println(counter);
+        } catch (IOException exc){
+            System.out.println(exc);
+        }
         }
 
     }

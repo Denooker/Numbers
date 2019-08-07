@@ -6,5 +6,6 @@ public class Str_3_Demo {
 //        Str_3.withoutString("Hello tellhere ellephant","ell");
 //        Str_3.equalsIsNot("noisxxnotyynotxisi");
 //        Str_3.gHappy("gfggdsgg2gg");
+        Str_3.countTriple("countTriple.txt");
     }
 }
