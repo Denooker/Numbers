@@ -2,12 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8cc116fc-72db-4cc8-a8f3-f27e5c5fdfd7" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Quest/src/LambdaArgument/LambdaArgumentDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Quest/src/LambdaArgument/StringFunc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Quest/src/funcInterfaces/MyTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Quest/src/funcInterfaces/NumericFunc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Quest/src/funcInterfaces/lambdaDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Quest/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Quest/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Quest/out/production/Quest/String_3/Str_3.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Quest/out/production/Quest/String_3/Str_3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Quest/out/production/Quest/String_3/Str_3_Demo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Quest/out/production/Quest/String_3/Str_3_Demo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Quest/src/String_3/Str_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Quest/src/String_3/Str_3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Quest/src/String_3/Str_3_Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Quest/src/String_3/Str_3_Demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quest/out/production/Quest/Recursion_1/Recurs_1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Quest/out/production/Quest/Recursion_1/Recurs_1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quest/out/production/Quest/Recursion_1/Recursion_1_Demo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Quest/out/production/Quest/Recursion_1/Recursion_1_Demo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quest/src/Recursion_1/Recurs_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Quest/src/Recursion_1/Recurs_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quest/src/Recursion_1/Recursion_1_Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Quest/src/Recursion_1/Recursion_1_Demo.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,7 +25,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Testing/CompFiles.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="105">
@@ -30,10 +34,10 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Regular/RegExMain.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
+            <state relative-caret-position="215">
               <caret line="30" column="13" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
@@ -46,8 +50,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/DZ1/DZclass.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="378">
-              <caret line="20" column="34" lean-forward="true" selection-start-line="20" selection-start-column="34" selection-end-line="20" selection-end-column="34" />
+            <state relative-caret-position="432">
+              <caret line="20" column="34" selection-start-line="20" selection-start-column="34" selection-end-line="20" selection-end-column="34" />
             </state>
           </provider>
         </entry>
@@ -83,8 +87,8 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="383" />
-    <option name="y" value="96" />
+    <option name="x" value="2642" />
+    <option name="y" value="138" />
     <option name="width" value="1940" />
     <option name="height" value="1095" />
   </component>
@@ -94,6 +98,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -134,8 +140,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -226,10 +230,9 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="383" y="96" width="1940" height="1095" extended-state="0" />
-    <editor active="true" />
+    <frame x="2642" y="138" width="1940" height="1095" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20478724" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20691489" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -238,7 +241,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.42790335" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.28170478" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39858156" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -284,28 +287,28 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Regular/RegExMain.java">
+    <entry file="file://$PROJECT_DIR$/src/Testing/CompFiles.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="30" column="13" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="105">
+          <caret line="5" column="32" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/DZ1/DZclass.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="20" column="34" lean-forward="true" selection-start-line="20" selection-start-column="34" selection-end-line="20" selection-end-column="34" />
+        <state relative-caret-position="432">
+          <caret line="20" column="34" selection-start-line="20" selection-start-column="34" selection-end-line="20" selection-end-column="34" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Testing/CompFiles.java">
+    <entry file="file://$PROJECT_DIR$/src/Regular/RegExMain.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="5" column="32" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
+        <state relative-caret-position="215">
+          <caret line="30" column="13" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
