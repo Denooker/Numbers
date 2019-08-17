@@ -5,7 +5,7 @@ public class lambdaDemo {
         MyTest bolshemenshe = (v)-> v>=10&v<=20;
         System.out.println(bolshemenshe.testing(15));
 
-        NumericFunc fact = (v) -> {
+        NumericFunc<Integer> fact = (v) -> {
             int p = 1;
             for (int i = v; i > 0; i--){
                 p = p*i;

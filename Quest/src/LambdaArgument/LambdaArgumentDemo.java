@@ -58,9 +58,8 @@ public class LambdaArgumentDemo {
 //
 //        System.out.println(outStr);
 
-        outStr = changeStr((str) -> {
-            return str.replaceAll("\\s", "");
-        }, inStr);
+        outStr = changeStr((str) -> str.replaceAll("\\s", "")
+        ,inStr);
 
         System.out.println(outStr);
     }

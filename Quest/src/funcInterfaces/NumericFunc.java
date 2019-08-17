@@ -1,5 +1,5 @@
 package funcInterfaces;
 
-public interface NumericFunc {
-    int factorial(int n);
+public interface NumericFunc<T> {
+    T factorial(T n);
 }
