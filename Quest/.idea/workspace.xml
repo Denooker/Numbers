@@ -2,16 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6f7b4ada-7074-4edc-a68d-de61bbb0b539" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/linkMethod/IntPredicate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/linkMethod/MethodRefDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/linkMethod/MyIntNum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Quest/LambdaArgument/LambdaArgumentDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Quest/LambdaArgument/LambdaArgumentDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Quest/funcInterfaces/NumericFunc.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Quest/funcInterfaces/NumericFunc.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Quest/funcInterfaces/lambdaDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Quest/funcInterfaces/lambdaDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LambdaArgument/LambdaArgumentDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LambdaArgument/LambdaArgumentDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/funcInterfaces/NumericFunc.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/funcInterfaces/NumericFunc.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/funcInterfaces/lambdaDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/funcInterfaces/lambdaDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Game/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Game/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,61 +14,8 @@
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
   </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="-932413117">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="1" />
-          <entry key="project.open.time.7" value="1" />
-          <entry key="project.opened" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="JAVA" value="6" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="JAVA" value="562" />
-        </counts>
-      </usages-collector>
-    </session>
-  </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/linkMethod/IntPredicate.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="63">
-              <caret line="3" column="24" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/linkMethod/MyIntNum.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="17" column="21" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
-              <folding>
-                <element signature="e#160#161#0" expanded="true" />
-                <element signature="e#190#191#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/linkMethod/MethodRefDemo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="483">
-              <caret line="23" column="1" lean-forward="true" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -150,10 +88,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="2576" />
-    <option name="height" value="1416" />
+    <option name="x" value="367" />
+    <option name="y" value="62" />
+    <option name="width" value="1861" />
+    <option name="height" value="1279" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -186,7 +124,7 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1566054330693" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../FileOperation" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Game" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -277,11 +215,11 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.LambdaArgumentDemo" />
+      <item itemvalue="Application.MethodRefDemo" />
       <item itemvalue="Application.Recurs_1" />
       <item itemvalue="Application.Str_3_Demo" />
       <item itemvalue="Application.lambdaDemo" />
-      <item itemvalue="Application.LambdaArgumentDemo" />
-      <item itemvalue="Application.MethodRefDemo" />
     </list>
     <recent_temporary>
       <list>
@@ -307,10 +245,9 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="2576" height="1416" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12260128" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1236089" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -339,9 +276,6 @@
       <window_info anchor="right" id="Maven Projects" order="8" />
       <window_info anchor="right" x="0" y="0" width="594" height="1216" id="Documentation" order="9" side_tool="true" weight="0.3298887" />
     </layout>
-  </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Warmup_2/Warm_2.java" />
@@ -653,31 +587,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/linkMethod/IntPredicate.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="63">
-          <caret line="3" column="24" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/linkMethod/MyIntNum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="17" column="21" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
-          <folding>
-            <element signature="e#160#161#0" expanded="true" />
-            <element signature="e#190#191#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/linkMethod/MethodRefDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="483">
-          <caret line="23" column="1" lean-forward="true" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/linkMethod/IntPredicate.java" />
+    <entry file="file://$PROJECT_DIR$/src/linkMethod/MyIntNum.java" />
+    <entry file="file://$PROJECT_DIR$/src/linkMethod/MethodRefDemo.java" />
   </component>
   <component name="masterDetails">
     <states>

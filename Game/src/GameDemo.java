@@ -53,13 +53,13 @@ public class GameDemo {
         //Расстановка старта.
         pole[4][4] = 3;
 
-//        //Проверка расстановок
-//        for (int i = 0; i < pole.length; i++){
-//            for (int j = 0; j < pole.length; j++){
-//                System.out.print(pole[i][j] + "\t");
-//            }
-//            System.out.println();
-//        }
+        //Проверка расстановок
+        for (int i = 0; i < pole.length; i++){
+            for (int j = 0; j < pole.length; j++){
+                System.out.print(pole[i][j] + "\t");
+            }
+            System.out.println();
+        }
 
         //Управление.
         while (x < 10 & y < 10) {
