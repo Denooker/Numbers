@@ -1,15 +1,16 @@
 package library;
 
 public class Books {
-    private int id;
-    private String author;
-    private String titleOfTheBook;
-    private String genre;
-    private int shelf;
-    private String timeOfIssueBook = ;
-    private int timeOfReturn;
-    private String whoTake;
-    private boolean status;
+    private int id;//идентификационный номер книги
+    private String author;//автор книги
+    private String titleOfTheBook;//название книги
+    private String genre;//жанр книги
+    private int shelfBook;//номер полки
+    private String timeOfIssueBook;//время взятия
+    private String timeOfReturnBook;//время возврата
+    private String whoTakeBook;//кто взял
+    private boolean statusBook;//есть ли книга в наличии
+    private int numberBook;//количество книг
 
     Books(int id, String author, String name, String genre){
         this.id = id;
@@ -18,61 +19,71 @@ public class Books {
         this.genre = genre;
     }
 
+    //вернуть id книги
     public int getId(){
         return id;
     }
 
+    //вернуть автора книги
     public String getAuthor(){
         return author;
     }
 
+    //вернуть название книги
     public String getTitleOfTheBook(){
         return titleOfTheBook;
     }
 
+    //вернуть жанр книги
     public String getGenre(){
         return genre;
     }
 
-    public void setShelf(int shelf){
-        this.shelf = shelf;
+    //установить книгу на полку
+    public void setShelfBook(int shelfBook){
+        this.shelfBook = shelfBook;
+    }
+    public int getShelfBook(){
+        return shelfBook;
     }
 
-    public int getShelf(){
-        return shelf;
+    //установить время взятия
+    public void setTimeOfIssueBook(String timeOfIssueBook ){
+        this.timeOfIssueBook = timeOfIssueBook;
     }
-
-    //время взятие книги от библиотекаря
-//    public void setTimeOfIssueBook(Librarian l){
-//        this.timeOfIssueBook = l.getTimeOfIssueLibrarian();
-//    }
-
-
     public String getTimeOfIssueBook(){
-        return timeOfIssueBook;
+        return this.timeOfIssueBook;
     }
 
-    public void setTimeOfReturn(int timeOfReturn){
-        this.timeOfReturn = timeOfReturn;
+    //установить время возврата
+    public void setTimeOfReturnBook(String timeOfReturnBook){
+        this.timeOfReturnBook = timeOfReturnBook;
+    }
+    public String getTimeOfReturnBook(){
+        return this.timeOfReturnBook;
     }
 
-    public int getTimeOfReturn(){
-        return timeOfReturn;
+    //установить кто взял книгу
+    public void setWhoTakeBook(String whoTakeBook){
+        this.whoTakeBook = whoTakeBook;
+    }
+    public String getWhoTakeBook(){
+        return this.whoTakeBook;
     }
 
-    public void setWhoTake(Visitor whoTake){
-        this.whoTake = whoTake.getNameOfVisitor();
+    //установить есть ли книга в наличии
+    public void setStatusBook(boolean statusBook){
+        this.statusBook = statusBook;
+    }
+    public boolean getStatusBook(){
+        return this.statusBook;
     }
 
-    public String getWhoTake(){
-        return whoTake;
+    //установить количество книг
+    public void setNumberBook(int numberBook){
+        this.numberBook = numberBook;
     }
-
-    public void setStatus(boolean status){
-        this.status = status;
-    }
-
-    public boolean getStatus(){
-        return status;
+    public int getNumberBook() {
+        return numberBook;
     }
 }

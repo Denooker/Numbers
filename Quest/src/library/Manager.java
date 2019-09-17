@@ -1,22 +1,46 @@
 package library;
 
-import java.util.ArrayList;
-
 public class Manager {
 
-    public void addBookOnShelf(ArrayList<Books> shelf, Books book){
-        shelf.add(book);
+    private boolean statusOfLibrary;//статус библиотеки
+    private int shelfManager;//номер полки
+    private int numberOfBookManger;//количестов книг
+
+    //добавить книгу в библиотеку, присвоить номер полки
+    public void addBookInLibrary(Library library, Books book, int shelfManager, int numberOfBookManger ){
+        book.setNumberBook(numberOfBookManger);
+        library.getBooks().add(book);
+        book.setShelfBook(shelfManager);
+        this.shelfManager = shelfManager;
     }
 
-    public void removeBookOnShelf(ArrayList<Books> shelf, int id){
-        shelf.remove(id);
+    //вернуть номер полки
+    public int getShelfManager(){
+        return shelfManager;
     }
 
-    private boolean statusOfLibrary;
+    //удалить книгу с библиотеки
+    public void removeBookFromLibrary(Library library, int id){
+        library.getBooks().remove(id);
+    }
 
+    //открыть или закрыть библиотеку
     public void setStatusOfLibrary(boolean statusOfLibrary){
         this.statusOfLibrary = statusOfLibrary;
     }
+    //вернуть статус библиотеки
+    public boolean getStatusOfLibrary (){
+        return this.statusOfLibrary;
+    }
 
+    //узнает кто взял книгу
+    public String getWhoTakeManager(Books book){
+        return book.getWhoTakeBook();
+    }
+
+    //узнает когда взяли книгу
+    public String getWhenTakeManager(Books book){
+        return book.getTimeOfIssueBook();
+    }
 
 }

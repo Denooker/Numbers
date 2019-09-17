@@ -1,19 +1,24 @@
 package library;
 
 public class Visitor {
-    private String timeOfIssueVisitor;
-    private String nameOfVisitor;
+    private String timeOfIssueVisitor;//время взятия
+    private String nameOfVisitor;//имя посетителя
 
     Visitor(String nameOfVisitor){
         this.nameOfVisitor = nameOfVisitor;
     }
 
-    //время взятие книги от объекта книги
-    public void setTimeOfIssue(Books book){
+    //установить время взятия книги
+    public void setTimeOfIssueVisitor(Books book){
         this.timeOfIssueVisitor = book.getTimeOfIssueBook();
     }
+    public String getTimeOfIssueVisitor(){
+        return this.timeOfIssueVisitor;
+    }
 
+    //вернуть имя посетителя
     public String getNameOfVisitor(){
         return nameOfVisitor;
     }
+
 }
