@@ -2,29 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9e26393e-12ec-464a-8fee-c3050e4b743c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Quest/src/randomNumberFromArray/RandomNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Quest/src/randomNumberFromArray/RandomNumber_Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Quest/src/vectorP/Vector.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Quest/src/vectorP/VectorUse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/org_telegram_telegrambots_4_4_0_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Quest/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Quest/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Quest/out/production/Quest/Warmup_2/Warmup_2_Demo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Quest/out/production/Quest/Warmup_2/Warmup_2_Demo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Quest/out/production/Quest/library/Books.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Quest/out/production/Quest/library/Books.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Quest/out/production/Quest/library/Librarian.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Quest/out/production/Quest/library/Librarian.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Quest/out/production/Quest/library/Library_Demo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Quest/out/production/Quest/library/Library_Demo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Quest/out/production/Quest/library/Manager.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Quest/out/production/Quest/library/Manager.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Quest/out/production/Quest/library/Shelfs.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Quest/out/production/Quest/library/Visitor.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Quest/out/production/Quest/library/Visitor.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Quest/src/Warmup_2/Warmup_2_Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Quest/src/Warmup_2/Warmup_2_Demo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Quest/src/library/Books.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Quest/src/library/Books.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Quest/src/library/Librarian.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Quest/src/library/Librarian.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Quest/src/library/Library_Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Quest/src/library/Library_Demo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Quest/src/library/Manager.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Quest/src/library/Manager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Quest/src/library/Shelfs.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Quest/src/library/Library.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Quest/src/library/Visitor.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Quest/src/library/Visitor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CopyFiles.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Bot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bot.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -34,11 +14,10 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DefaultGradleProjectSettings">
-    <option name="testRunner" value="GRADLE" />
-    <option name="delegatedBuild" value="true" />
+    <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -54,14 +33,22 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Bot.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="432">
-              <caret line="18" column="36" selection-start-line="18" selection-start-column="36" selection-end-line="18" selection-end-column="36" />
+            <state relative-caret-position="216">
+              <caret line="12" column="51" selection-start-line="12" selection-start-column="51" selection-end-line="12" selection-end-column="51" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#263#264#0" expanded="true" />
-                <element signature="e#288#289#0" expanded="true" />
-                <element signature="e#323#324#0" expanded="true" />
-                <element signature="e#347#348#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/CopyFiles.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="15" column="17" lean-forward="true" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
+              <folding>
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -82,16 +69,17 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Bot.java" />
         <option value="$PROJECT_DIR$/src/Main.java" />
+        <option value="$PROJECT_DIR$/src/Bot.java" />
+        <option value="$PROJECT_DIR$/src/CopyFiles.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="76" />
-    <option name="y" value="-10" />
-    <option name="width" value="1861" />
-    <option name="height" value="1279" />
+    <option name="x" value="221" />
+    <option name="y" value="-23" />
+    <option name="width" value="1647" />
+    <option name="height" value="1204" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -101,6 +89,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -117,7 +106,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -126,6 +114,7 @@
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -142,7 +131,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.CopyFiles">
+    <configuration name="CopyFiles" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CopyFiles" />
+      <module name="Robot" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="Robot" />
@@ -152,6 +148,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CopyFiles" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -171,47 +168,52 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="2576" height="1416" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.09976152" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32969603" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.2751364" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
     </layout>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Bot.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="18" column="36" selection-start-line="18" selection-start-column="36" selection-end-line="18" selection-end-column="36" />
+        <state relative-caret-position="216">
+          <caret line="12" column="51" selection-start-line="12" selection-start-column="51" selection-end-line="12" selection-end-column="51" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#263#264#0" expanded="true" />
-            <element signature="e#288#289#0" expanded="true" />
-            <element signature="e#323#324#0" expanded="true" />
-            <element signature="e#347#348#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CopyFiles.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="15" column="17" lean-forward="true" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
